@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 00B1-6C87
+
+ Directory of C:\Users\sasikumar\Desktop\myproject
+
+07/01/2020  12:04 PM    <DIR>          .
+07/01/2020  12:04 PM    <DIR>          ..
+07/01/2020  12:04 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  558,442,999,808 bytes free
